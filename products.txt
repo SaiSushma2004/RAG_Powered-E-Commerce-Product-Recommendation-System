@@ -1,0 +1,24 @@
+Product Name: Apple iPhone 14
+Category: Smartphone
+Price: ₹79,999
+Description: The iPhone 14 features a 6.1-inch Super Retina XDR display,
+A15 Bionic chip, dual-camera system with 12MP wide and ultra-wide cameras,
+and excellent battery life.
+
+Product Name: Samsung Galaxy S23
+Category: Smartphone
+Price: ₹74,999
+Description: Samsung Galaxy S23 comes with a 6.1-inch AMOLED display,
+Snapdragon 8 Gen 2 processor, triple camera setup, and fast charging.
+
+Product Name: Sony WH-1000XM5
+Category: Headphones
+Price: ₹29,999
+Description: Industry-leading noise cancellation headphones with
+30 hours battery life and superior sound quality.
+
+Product Name: Dell XPS 13
+Category: Laptop
+Price: ₹1,19,999
+Description: Ultra-thin laptop with Intel i7 processor, 16GB RAM,
+512GB SSD, and premium build quality.
